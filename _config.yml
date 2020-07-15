@@ -2,9 +2,7 @@ title: My awesome trip across Europe
 author: GitHub nobody
 theme: minima
 email: nobody@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  I share my travel experience across Europe with plenty of tips to help you do the same and avoid traps.
-
+description: I share my travel experience across Europe with plenty of tips to help you do the same and avoid traps.
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  thewebshaper # DO NOT include the @ character, or else the build will fail!
