@@ -6,5 +6,4 @@ description: I share my travel experience across Europe with plenty of tips to h
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  thewebshaper # DO NOT include the @ character, or else the build will fail!
-
 show_excerpts: false # set to false to remove excerpts on the homepage
